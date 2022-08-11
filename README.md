@@ -1,4 +1,4 @@
-## SQL DataExploration
+## SQL Data Exploration
 
 I made the decision to use PostgreSQL to do an exploratory data analysis on a Covid-19 dataset. 
 https://ourworldindata.org/covid-deaths is the link to the dataset. 
