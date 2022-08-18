@@ -1,4 +1,4 @@
-## SQL Data Exploration
+## EDA on Covid-19 Dataset
 
 I made the decision to use PostgreSQL to do an exploratory data analysis on a Covid-19 dataset. 
 https://ourworldindata.org/covid-deaths is the link to the dataset. 
